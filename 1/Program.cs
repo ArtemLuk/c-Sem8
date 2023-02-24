@@ -44,7 +44,7 @@ void SortArray(int[,] inArray){
 }
 
 Console.Clear();
-int[,] A=GetArray(7,7);
+int[,] A=GetArray(5,5);
 PrintArray(A);
 Console.WriteLine("Sorted array is: ");
 SortArray(A);
